@@ -3,7 +3,7 @@
 
 
 ### Descrição:
- O propósito deste projeto é entregar uma solução digital que auxilie pessoas de todos os perfis a encontrar uma base de conhecimento de receitas/alimentos coerentes as necessidades alimentares individuais. O projeto contribui na saúde do usuário por meio do auxílio no cotidiano, proporcioando um estilo de vida mais saudável de maneira realista.
+ O propósito deste projeto é entregar uma solução digital que auxilie pessoas de todos os perfis a encontrar uma base de conhecimento de receitas/alimentos coerentes às necessidades alimentares individuais. O projeto contribui na saúde do usuário por meio do auxílio no cotidiano, proporcioando um estilo de vida mais saudável de maneira realista.
 
 
 ---
