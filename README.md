@@ -5,6 +5,7 @@
 #Descrição:
  O propósito deste projeto é entregar uma solução digital que auxilie pessoas de todos os perfis a encontrar um estilo de vida mais saudável de maneira realista por meio de receitas culinárias focadas em simplicidade e praticidade. 
 
+---
 
 #Objetivos iniciais:
  Em primeira instância *(2º Sem. 2025)* :
@@ -13,6 +14,7 @@
 
  **mais objetivos serão adicionados conforme o projeto é desenvolvido**
 
+---
 
 #Tecnologias utilizadas:
  **Dashboard**:
@@ -20,6 +22,7 @@
 
 **mais tecnologias serão utilizadas ao longo do desenvolvimento deste projeto**
 
+---
 
 #Papéis dos membros:
  Todos os membros são colaboradores diretos ao desenvolvimento do projeto. Funções específicas serão definidas em breve.
@@ -28,8 +31,7 @@
 + Miguel Ribeiro (22352674)- **a definir**
 + Davi Klein (22505003)- **a definir** 
 
+---
 
 #Status do projeto:
 + Em andamento
-
----
