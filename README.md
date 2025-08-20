@@ -12,7 +12,7 @@
 ### Objetivos iniciais:
  Em primeira instância *(2º Sem. 2025)* :
  + Fazer um levantamento de dados sobre necessidades na alimentação de diferentes grupos (baixa renda, celíacos, intolerantes a lactose, idosos, crianças, etc).
- + Documentar e catalogar a culinária saudável/acessível e o público que mais se beneficiaria da mesma.
+ + Documentar e catalogar a culinária saudável/acessível e o público que mais se beneficiaria.
  + Encontar base de dados de pesquisas referentes ao assunto.
  + Fazer tratamento dos dados adquiridos.
  + Fazer a análise dos dados adquiridos.
