@@ -14,7 +14,7 @@
  + Fazer um levantamento de dados sobre culinária saudável/acessível e o público que mais se beneficiaria da mesma.
  + Desenvolver um dashboard para visualização dos dados levantadados.
 
- **mais objetivos serão adicionados conforme o projeto é desenvolvido**
+ **mais objetivos serão adicionados ao longo do desenvolvimento deste projeto**
 
 
 ---
