@@ -27,7 +27,7 @@ Durante a primeira fase do projeto (2º semestre de 2025), os principais objetiv
 
 ## 🛠️ Tecnologias Utilizadas
 
-### 📊 Dashboard & Análise de Dados
+### 📊 Análise de Dados e Dashboard
 
 * Python
 
@@ -37,7 +37,13 @@ Durante a primeira fase do projeto (2º semestre de 2025), os principais objetiv
   * Seaborn
   * Plotly
 
-> **Nota:** Novas tecnologias poderão ser integradas conforme a necessidade do projeto.
+### 🌐 Desenvolvimento Web
+
+* HTML
+* CSS
+* JavaScript
+
+> **Nota:** Outras tecnologias poderão ser adicionadas ao longo do desenvolvimento do projeto, conforme as necessidades surgirem.
 
 ---
 
