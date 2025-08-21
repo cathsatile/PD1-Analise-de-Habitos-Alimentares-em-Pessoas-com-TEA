@@ -1,5 +1,4 @@
 # Auxílio no Monitoramento Alimentar (Projeto-Integrador-I)
- Este é o repositório dedicado à disciplina Projeto Integrador, referente ao curso de Ciência da Computação no CEUB
 
 
 ### Descrição:
