@@ -1,48 +1,58 @@
-# Auxílio no Monitoramento Alimentar (Projeto-Integrador-I)
+# 🥗 Auxílio no Monitoramento Alimentar
 
+**Projeto Integrador I – 2º Semestre de 2025**
 
-### Descrição:
- O propósito deste projeto é entregar uma solução digital que auxilie pessoas de todos os perfis a encontrar uma base de conhecimento de receitas/alimentos coerentes às necessidades alimentares individuais. O projeto contribui na saúde do usuário por meio do auxílio no cotidiano, proporcioando um estilo de vida mais saudável de maneira realista.
+## 📌 Descrição
 
+Este projeto tem como propósito desenvolver uma **solução digital voltada ao monitoramento alimentar**, com base na apuração de dados sobre a realidade nutricional da população brasileira. A proposta visa oferecer suporte no cotidiano das pessoas — independentemente de perfil ou restrições alimentares — por meio de uma base de conhecimento acessível com **receitas e alimentos compatíveis com suas necessidades individuais**.
 
----
-
-
-### Objetivos iniciais:
- Em primeira instância *(2º Sem. 2025)* :
- + Fazer um levantamento de dados sobre necessidades na alimentação de diferentes grupos (baixa renda, celíacos, intolerantes a lactose, idosos, crianças, etc).
- + Documentar e catalogar a culinária saudável/acessível e o público que mais se beneficiaria.
- + Encontar base de dados de pesquisas referentes ao assunto.
- + Fazer tratamento dos dados adquiridos.
- + Fazer a análise dos dados adquiridos.
- + Desenvolver um dashboard para visualização clara e concisa dos dados.
-
- **mais objetivos serão adicionados conforme o projeto é desenvolvido**
-
+A iniciativa busca **promover saúde e bem-estar**, contribuindo para um estilo de vida mais saudável, de forma prática e efetiva.
 
 ---
 
+## 🎯 Objetivos Iniciais
 
-### Tecnologias utilizadas:
- **Dashboard**:
- + Python - Pandas, Numpy, Matplotlib, Seaborn, Plotly
+Durante a primeira fase do projeto (2º semestre de 2025), os principais objetivos são:
 
-**mais tecnologias serão utilizadas ao longo do desenvolvimento deste projeto**
+* 🔍 Levantar dados sobre necessidades alimentares de diferentes grupos populacionais (baixa renda, celíacos, intolerantes à lactose, idosos, crianças, etc.).
+* 📚 Documentar e catalogar receitas saudáveis e acessíveis, identificando os públicos que mais se beneficiariam delas.
+* 📊 Localizar bases de dados e pesquisas relevantes sobre o tema.
+* 🧹 Realizar o tratamento dos dados coletados.
+* 🧠 Analisar os dados processados.
+* 📈 Desenvolver um **dashboard interativo e visualmente claro** para apresentar os resultados de forma concisa.
 
-
----
-
-
-### Papéis dos membros:
- Todos os membros são colaboradores diretos ao desenvolvimento do projeto. Funções específicas serão definidas em breve.
-
-+ Catharina Satile (22352153)- Líder/Analista
-+ Miguel Ribeiro (22352674)- Documentador
-+ Davi Klein (22505003)- Desenvolvedor
-
+> **Observação:** Mais objetivos serão adicionados conforme o projeto evolui.
 
 ---
 
+## 🛠️ Tecnologias Utilizadas
 
-### Status do projeto:
-+ Em andamento
+### 📊 Dashboard & Análise de Dados
+
+* Python
+
+  * Pandas
+  * NumPy
+  * Matplotlib
+  * Seaborn
+  * Plotly
+
+> **Nota:** Novas tecnologias poderão ser integradas conforme a necessidade do projeto.
+
+---
+
+## 👥 Equipe e Papéis
+
+Todos os membros participam ativamente no desenvolvimento do projeto. As funções específicas estão sendo definidas ao longo do processo.
+
+| Nome                 | Matrícula | Função           |
+| -------------------- | --------- | ---------------- |
+| **Catharina Satile** | 22352153  | Líder / Analista |
+| **Miguel Ribeiro**   | 22352674  | Documentador     |
+| **Davi Klein**       | 22505003  | Desenvolvedor    |
+
+---
+
+## 📈 Status do Projeto
+
+🚧 **Em andamento**
