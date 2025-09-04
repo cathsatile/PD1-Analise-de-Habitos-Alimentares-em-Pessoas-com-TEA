@@ -1,12 +1,12 @@
-# 🥗 Auxílio no Monitoramento Alimentar
+# 🥗 Análise de Hábitos Alimentares em Pessoas com TEA
 
 **Projeto Integrador I – 2º Semestre de 2025**
 
 ## 📌 Descrição
 
-Este projeto tem como propósito desenvolver uma **solução digital voltada ao monitoramento alimentar**, com base na apuração de dados sobre a realidade nutricional da população brasileira. A proposta visa oferecer suporte no cotidiano das pessoas — independentemente de perfil ou restrições alimentares — por meio de uma base de conhecimento acessível com **receitas e alimentos compatíveis com suas necessidades individuais**.
+Este projeto visa desenvolver uma **solução digital para o monitoramento alimentar em pessoas diagnosticadas com Transtorno do Espectro Autista (TEA)**. O objetivo é analisar dados sobre os hábitos nutricionais desse grupo, que frequentemente enfrenta desafios como seletividade alimentar, aversões sensoriais e restrições específicas.
 
-A iniciativa busca **promover saúde e bem-estar**, contribuindo para um estilo de vida mais saudável, de forma prática e efetiva.
+A proposta irá oferecer uma base de conhecimento acessível, com receitas e alimentos compatíveis com suas necessidades individuais, contribuindo para um estilo de vida mais saudável e proporcionando suporte no cotidiano das pessoas com TEA e suas famílias.
 
 ---
 
@@ -14,11 +14,11 @@ A iniciativa busca **promover saúde e bem-estar**, contribuindo para um estilo 
 
 Durante a primeira fase do projeto (2º semestre de 2025), os principais objetivos são:
 
-* 🔍 Levantar dados sobre necessidades alimentares de diferentes grupos populacionais (baixa renda, celíacos, intolerantes à lactose, idosos, crianças, etc.).
-* 📚 Documentar e catalogar receitas saudáveis e acessíveis, identificando os públicos que mais se beneficiariam delas.
-* 📊 Localizar bases de dados e pesquisas relevantes sobre o tema.
-* 🧹 Realizar o tratamento dos dados coletados.
-* 🧠 Analisar os dados processados.
+* 🔍 Levantar dados sobre os hábitos alimentares e desafios nutricionais específicos da população com TEA.
+* 📚 Documentar e catalogar receitas e planos alimentares saudáveis e adaptados para as necessidades sensoriais e nutricionais de pessoas com TEA.
+* 📊 Localizar bases de dados e pesquisas relevantes sobre o tema, incluindo estudos científicos e artigos especializados.
+* 🧹 Realizar o tratamento e a filtragem dos dados coletados.
+* 🧠 Analisar os dados processados para identificar padrões e correlações.
 * 📈 Desenvolver um **dashboard interativo e visualmente claro** para apresentar os resultados de forma concisa.
 
 > **Observação:** Mais objetivos serão adicionados conforme o projeto evolui.
