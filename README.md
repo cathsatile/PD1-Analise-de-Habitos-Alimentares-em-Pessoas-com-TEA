@@ -59,6 +59,18 @@ Todos os membros participam ativamente no desenvolvimento do projeto. As funçõ
 
 ---
 
+## 🗓️ Cronograma
+
+| Data | Tema | Conteúdo |
+| :--- | :--- | :--- |
+| 07/08 | Introdução à Resolução de Problemas Complexos | ABP, análise de stakeholders, cases reais |
+| 14/08 | Design Thinking - Imersão Profunda no Problema | - Introdução aos princípios do Design Thinking. - Técnicas de pesquisa e imersão: entrevistas com usuários, jornada do usuário, mapa de empatia.|
+| 21/08 | Design Thinking – Síntese e Ideação | - Análise e síntese dos dados da pesquisa. - Geração de ideias (brainstorming) e priorização.|
+| 28/08 | Design Thinking – Síntese e Ideação | - Construção de protótipos de baixa fidelidade (wireframes, storyboards) |
+| 03/09 | Lean Inception - Alinhamento e Visão do Produto - Introdução à metodologia Lean Inception. | Product Vision Board, definição do escopo |
+
+---
+
 ## 📈 Status do Projeto
 
 🚧 **Em andamento**
