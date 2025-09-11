@@ -1,0 +1,53 @@
+﻿"Tabela 3022 - Domicílios particulares com insegurança alimentar e com pelo menos um morador de menos de 18 anos de idade, por tipo de insegurança alimentar - Ranking ascendente"
+"Variável - Domicílios particulares com insegurança alimentar e com pelo menos um morador de menos de 18 anos de idade (Mil unidades)"
+"#";"Unidade da Federação";"Ano x Tipo de insegurança alimentar"
+"#";"Unidade da Federação";"2004"
+"#";"Unidade da Federação";"Total"
+"1";"Amapá";"47"
+"2";"Roraima";"51"
+"3";"Acre";"77"
+"4";"Rondônia";"97"
+"5";"Sergipe";"106"
+"6";"Tocantins";"119"
+"7";"Mato Grosso do Sul";"119"
+"8";"Distrito Federal";"120"
+"9";"Mato Grosso";"187"
+"10";"Espírito Santo";"194"
+"11";"Santa Catarina";"202"
+"12";"Amazonas";"217"
+"13";"Alagoas";"254"
+"14";"Rio Grande do Norte";"350"
+"15";"Piauí";"366"
+"16";"Paraíba";"377"
+"17";"Goiás";"378"
+"18";"Rio Grande do Sul";"539"
+"19";"Paraná";"540"
+"20";"Pará";"737"
+"21";"Maranhão";"789"
+"22";"Pernambuco";"835"
+"23";"Rio de Janeiro";"862"
+"24";"Ceará";"888"
+"25";"Minas Gerais";"1204"
+"26";"Bahia";"1357"
+"27";"São Paulo";"1967"
+"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios"
+
+"Notas"
+"1 - Os dados desta tabela não foram reponderados pelo peso definido pela Contagem da População de 2007."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
