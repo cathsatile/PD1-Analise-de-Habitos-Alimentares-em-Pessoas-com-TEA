@@ -62,6 +62,7 @@ Durante a primeira fase do projeto (2º semestre de 2025), os principais objetiv
 
 🚧 **Em andamento**
 
-### 🏁 Tabela de Tarefas
+### 🏁 Organização de Tarefas
 
-Kanban board (miro): https://miro.com/app/board/uXjVJDHiUzg=/?share_link_id=2396273763
+Kanban board (miro): [Miro](https://miro.com/app/board/uXjVJDHiUzg=/?share_link_id=2396273763)
+Planejamento SCRUM: [Docs](https://docs.google.com/document/d/1EFuL-Sd-7k4OEkpVFjaB8wHsn4nXasq6Ky2bcxldKRc/edit?usp=sharing)
