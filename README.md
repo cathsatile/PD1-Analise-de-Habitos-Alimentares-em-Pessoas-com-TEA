@@ -63,4 +63,5 @@ Durante a primeira fase do projeto (2º semestre de 2025), os principais objetiv
 🚧 **Em andamento**
 
 ### 🏁 Tabela de Tarefas
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVJDHiUzg=/?embedMode=view_only_without_ui&moveToViewport=-1363,-399,3167,1601&embedId=609098186066" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+Kanban board (miro): https://miro.com/app/board/uXjVJDHiUzg=/?share_link_id=2396273763
