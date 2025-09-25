@@ -44,9 +44,9 @@ Durante a primeira fase do projeto (2º semestre de 2025), os principais objetiv
 
 | Nome | Matrícula | Função |
 | :--- | :--- | :--- |
-| Catharina Satile | 22352153 | Líder / Analista |
-| Miguel Ribeiro | 22352674 | Documentador |
-| Davi Klein | 22505003 | Desenvolvedor |
+| [Catharina Satile](https://github.com/cathsatile) | 22352153 | Líder / Analista |
+| [Miguel Ribeiro](https://github.com/Miguelmrg) | 22352674 | Documentador |
+| [Davi Klein](https://github.com/Davi-KLevy) | 22505003 | Desenvolvedor |
 
 ### 🗓️ Cronograma
 
