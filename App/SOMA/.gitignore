@@ -1,0 +1,77 @@
+###########################################
+# 1. Arquivos de Ambiente Python/Virtualenv
+###########################################
+
+# Diretório de ambiente virtual (venv)
+# Se você criou seu ambiente como 'venv' ou '.venv'
+venv/
+.venv/
+env/
+
+# Arquivos de cache e bytecode do Python
+# O Python sempre compila seu código para bytecode (.pyc), o que deve ser ignorado.
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+###########################################
+# 2. Arquivos Específicos do Django
+###########################################
+
+# Base de Dados Local (SQLite)
+# Se você estiver usando o SQLite (como no seu settings.py), o arquivo de DB deve ser ignorado.
+# Isso evita que dados de teste/desenvolvimento sejam enviados para o repositório.
+db.sqlite3
+*.sqlite3
+
+# Arquivos Estáticos Gerados
+# O diretório que armazena os arquivos estáticos coletados após 'collectstatic' (STATIC_ROOT) 
+# não deve ser commitado no controle de versão.
+/staticfiles/
+/static_root/ # Nome alternativo que algumas pessoas usam
+
+# Mídia de Usuário (Arquivos de Upload)
+# Arquivos de mídia (como fotos de perfil ou uploads) devem ser ignorados, pois são específicos do servidor ou do banco de dados.
+/media/
+
+# Arquivos de Log
+*.log
+*.pot
+
+
+###########################################
+# 3. Arquivos de Configuração e Senhas
+###########################################
+
+# Variáveis de Ambiente (SENHAS/CHAVES SECRETAS)
+# Arquivos que armazenam informações sensíveis, como a SECRET_KEY do Django.
+.env
+.flaskenv
+.settings.local
+secrets.json
+
+# Logs e Dados Temporários
+*.tmp
+*.bak
+*~
+
+
+###########################################
+# 4. Arquivos de Editores e Sistemas Operacionais
+###########################################
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Histórico do IPython
+.ipynb_checkpoints/
