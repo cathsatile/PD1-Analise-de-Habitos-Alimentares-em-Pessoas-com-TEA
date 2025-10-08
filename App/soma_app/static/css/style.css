@@ -1,0 +1,148 @@
+/* Paleta de Cores */
+:root {
+    --color-background: #F0F4F8; /* Fundo - Cinza claro e suave */
+    --color-text-primary: #1C2E4A; /* Texto Principal - Azul-marinho */
+    --color-accent-primary: #4A90E2; /* Destaque 1 - Azul vibrante */
+    --color-accent-secondary: #9B59B6; /* Destaque 2 - Roxo */
+    --color-gradient-low: #D4E1F4; /* Gradações - Azul mais claro */
+    --color-header-footer: #1C2E4A; /* Usando a cor do Texto Principal para o Header */
+}
+
+/* Estilos Globais */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+    display: flex; /* Flexbox para layout principal */
+    min-height: 100vh;
+}
+
+h1, h2, h3 {
+    color: var(--color-text-primary);
+}
+
+/* 1. Cabeçalho (Header) */
+.header {
+    background-color: var(--color-text-primary); /* Azul-marinho */
+    color: var(--color-background); /* Texto claro no fundo escuro */
+    padding: 15px 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    position: fixed; /* Fixo no topo */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* 2. Navegação Lateral (Sidebar) */
+.sidebar {
+    position: fixed;
+    top: 60px; /* Abaixo do cabeçalho */
+    left: 0;
+    width: 80px; /* Largura estreita para apenas ícones */
+    height: calc(100vh - 60px); /* Altura restante da tela */
+    background-color: var(--color-text-primary); /* Azul-marinho */
+    padding-top: 20px;
+    z-index: 900;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebar-item {
+    padding: 20px 0;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.sidebar-item a {
+    color: var(--color-gradient-low); /* Azul mais claro para os ícones */
+    text-decoration: none;
+    font-size: 1.5em;
+    display: block;
+}
+
+.sidebar-item a:hover {
+    color: var(--color-accent-primary); /* Azul vibrante no hover */
+}
+
+.sidebar-item.active a {
+    color: var(--color-accent-primary); /* Indicador de página ativa */
+}
+
+/* 3. Área de Conteúdo Principal */
+.main-content {
+    margin-left: 80px; /* Espaço para a navegação lateral */
+    padding-top: 60px; /* Espaço para o cabeçalho */
+    width: calc(100% - 80px); /* Largura restante */
+    box-sizing: border-box;
+}
+
+
+/* --- Estilos para o Grupo de Filtros no Rodapé do Dashboard --- */
+
+/* 1. Container para centralizar o grupo de botões */
+.filter-controls-container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    padding: 30px 0 50px 0; /* Padding inferior para dar espaço */
+}
+
+/* 2. Estilo base do grupo de botões (para garantir que sejam adjacentes) */
+.filter-button-group {
+    display: flex;
+    border: 2px solid var(--color-accent-primary); /* Borda primária (azul vibrante) */
+    border-radius: 10px; /* Arredondamento externo do grupo */
+    overflow: hidden; /* Importante para que a borda externa controle o formato */
+}
+
+/* 3. Estilo de cada botão individual */
+.filter-button {
+    background-color: transparent;
+    color: var(--color-text-primary); /* Texto azul-marinho */
+    padding: 10px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none; /* Remove a borda padrão do botão */
+    outline: none;
+    transition: all 0.2s ease;
+    
+    /* Adiciona uma linha divisória entre os botões */
+    border-left: 1px solid var(--color-accent-primary);
+    
+    /* Remove a linha divisória do primeiro botão */
+    &:first-child {
+        border-left: none;
+    }
+}
+
+/* 4. Estilo do botão ATIVO (selecionado) */
+.filter-button.active {
+    background-color: var(--color-accent-primary); /* Cor de destaque (azul vibrante) */
+    color: white; /* Texto branco no botão ativo */
+    pointer-events: none; /* Desativa o clique no botão já ativo */
+}
+
+/* 5. Efeito visual ao passar o mouse (hover) */
+.filter-button:not(.active):hover {
+    background-color: var(--color-gradient-low); /* Cor de gradação para hover */
+}
+
+/* --- Arredondamento nas Extremidades --- */
+
+/* Borda esquerda arredondada para o PRIMEIRO botão */
+.filter-button:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+/* Borda direita arredondada para o ÚLTIMO botão */
+.filter-button:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
